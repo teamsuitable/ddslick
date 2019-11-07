@@ -1,0 +1,19 @@
+{
+  "name": "ddslick",
+  "version": "1.0.0",
+  "description": "ddSlick Author: Prashant Chaudhary (http://designwithpc.com) Plugin Demo & Documentation: http://designwithpc.com/Plugins/ddSlick",
+  "main": "jquery.ddslick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamsuitable/ddslick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamsuitable/ddslick/issues"
+  },
+  "homepage": "https://github.com/teamsuitable/ddslick#readme"
+}
